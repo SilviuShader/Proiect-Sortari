@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584867949 source:g:\workspace\codeblocks\tema1sd\main.cpp
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<chrono>
+
